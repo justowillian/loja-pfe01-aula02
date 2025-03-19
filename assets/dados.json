@@ -1,10 +1,9 @@
 [
     {
         "id":1,
-        "produto":"Camiseta Regata",
-        "descricao":"Camiseta regata masculina preta",
+        "produto":"boné preto",
+        "descricao":"boné preto",
         "preco":30.0,
-        "imagem":"https://emilioatacado.vtexassets.com/arquivos/ids/155954/20210309131602_7669992331_D.png?v=638198484064870000"
-    },
-    {}
+        "imagem":"https://img.br.my-best.com/product_images/bd61afb630cf376cafa23b56cb207c14.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=800&h=800&fit=clip&s=4c728d42403e0e31646f41849b47a14a"
+    }
 ]
