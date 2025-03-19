@@ -1,9 +1,48 @@
 [
     {
         "id":1,
-        "produto":"boné preto",
+        "produto":"boné nike",
         "descricao":"boné preto",
         "preco":30.0,
         "imagem":"https://img.br.my-best.com/product_images/bd61afb630cf376cafa23b56cb207c14.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=800&h=800&fit=clip&s=4c728d42403e0e31646f41849b47a14a"
+    },
+    {
+        "id":2,
+        "produto":"camiseta puma",
+        "descricao":"camiseta puma preta",
+        "preco":75.99,
+        "imagem":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8XPQnNoP1F0XvoH01iJbPEIt8OGWjYhhUdFvvGysZ1X1WbBSi4I0ftmvtDUKp3tYAkULOkuJGaQpcA_GZzhtY7hYqAqMBgXaBTKPV60jSGNLPg3nWPcuptQ&usqp=CAE"
+    
+    },
+    {
+        "id":3,
+        "produto":"camiseta palmeiras",
+        "descricao":"camiseta do alviverde imponente",
+        "preco":120.0,
+        "imagem":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQTRjxkpms7zhnb8mO_jeth4Z2z4VmS1bpOA_9me_TuDpJJBuytjK5T5OCnD6U19XnhBlAT0bhCL05EwlKmGahfHB5o0_Wr5ZSrFxPoEaN2Vjlh7PE_8Hss&usqp=CAE"
+    
+    },
+    {
+        "id":4,
+        "produto":"chinelo yzzey prerto",
+        "descricao":"chinelo slide yzzey preto",
+        "preco":400.0,
+        "imagem":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkvHZakaDonAz0yCkJFTpdLSnLUr1fmhEzbPgSKP0kfN5_DjL76GBkqIuZNB0HCZ5fVWBOPJD86v1EX45qpWOMr9-4-hlN5yT4wzX9vuK4OiSUHtW1cjU4&usqp=CAE"
+    },
+    {
+        "id":5,
+        "produto":"Tênis Nike Air Max Plus Masculino",
+        "descricao":"Tênis nike air max plus azul, preto e branco",
+        "preco":1100.0,
+        "imagem":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTIH3rbnIzvCckHVLOqRBPBP5RfRoWibn1OeE8Jnr3i58Im-2uPT_4VR3rCwCRLJeTYJ5O3ZavgGpft9mZobyWPMOnho0j1etDweYZ1DWMRb8k5AAF8Qqud5w&usqp=CAE"
+    
+    },
+    {
+        "id":6,
+        "produto":"camiseta polo preta",
+        "descricao":"camiseta polo preta masculino",
+        "preco":65.90,
+        "imagem":"https://m.media-amazon.com/images/I/51edXZAvT4L._AC_SX385_.jpg"
+    
     }
 ]
