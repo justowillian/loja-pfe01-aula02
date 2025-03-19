@@ -8,26 +8,26 @@
     },
     {
         "id":2,
-        "produto":"camiseta puma",
-        "descricao":"camiseta puma preta",
-        "preco":75.99,
-        "imagem":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8XPQnNoP1F0XvoH01iJbPEIt8OGWjYhhUdFvvGysZ1X1WbBSi4I0ftmvtDUKp3tYAkULOkuJGaQpcA_GZzhtY7hYqAqMBgXaBTKPV60jSGNLPg3nWPcuptQ&usqp=CAE"
+        "produto":"camisa puma palmeiras |||",
+        "descricao":"",
+        "preco":300.0,
+        "imagem":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQC93DIgByJfS8QFio9lhyDd_9nAkaedJlxhdcRTCNDphjA7trx-AK8b0H2yPd_B2L5R99jAjwi6unohhSAUVTmSxipS-mcgVLvQaKeOfgZJqhmGFv3yPd-bw&usqp=CAE"
     
     },
     {
         "id":3,
         "produto":"camiseta palmeiras",
         "descricao":"camiseta do alviverde imponente",
-        "preco":120.0,
+        "preco":120.00,
         "imagem":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQTRjxkpms7zhnb8mO_jeth4Z2z4VmS1bpOA_9me_TuDpJJBuytjK5T5OCnD6U19XnhBlAT0bhCL05EwlKmGahfHB5o0_Wr5ZSrFxPoEaN2Vjlh7PE_8Hss&usqp=CAE"
     
     },
     {
         "id":4,
-        "produto":"chinelo yzzey prerto",
-        "descricao":"chinelo slide yzzey preto",
-        "preco":400.0,
-        "imagem":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkvHZakaDonAz0yCkJFTpdLSnLUr1fmhEzbPgSKP0kfN5_DjL76GBkqIuZNB0HCZ5fVWBOPJD86v1EX45qpWOMr9-4-hlN5yT4wzX9vuK4OiSUHtW1cjU4&usqp=CAE"
+        "produto":"camisa adidas real madrid | ",
+        "descricao":"",
+        "preco":170.0,
+        "imagem":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTiki9uHYofaTmgaRL0-d8FGFcyLiGtNng51-SUhNFywVB7zuzf1Hu9cwgSfHAJpuOvcx6Uf_OI6Jeav_9QO44XRFJIONEg-Huzp3loFYXlShZHOV5Jc2UQ&usqp=CAE"
     },
     {
         "id":5,
@@ -39,10 +39,58 @@
     },
     {
         "id":6,
-        "produto":"camiseta polo preta",
+        "produto":"camisa puma palmeiras ||",
         "descricao":"camiseta polo preta masculino",
-        "preco":65.90,
-        "imagem":"https://m.media-amazon.com/images/I/51edXZAvT4L._AC_SX385_.jpg"
+        "preco":300.0,
+        "imagem":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSWcnA9isir08PD4p2ASEzbs7gOSEaXOcdQf-MT50XuW0MpkX1Pq5X8g6Bmn0xAD6prL9TC1TQxSjJB6LmXlMOy-fPTZ6brBJgv2yxxErLFZzCzfau3pVY1kA&usqp=CAE"
+    
+    },
+    {
+        "id":7,
+        "produto":"camisa adidas real madrid || ",
+        "descricao":"",
+        "preco":219.0,
+        "imagem":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQS9YN8aEQuHWnPU6FSoncxicKQzJI3Qj03nfNMOY4Ds5fnFg7f4nlXr4CFqZvFd7oyY0lSY2nz5HVaP9GrhetG8hlOAGOUVhi9KPIb5AfKK8ESXHzNoCnf&usqp=CAE"
+    
+    },
+    {
+        "id":8,
+        "produto":"camisa nike dry fit branca e preta Masculina ",
+        "descricao":"",
+        "preco":89.0,
+        "imagem":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcReKXk_AhB2WqeBdtJQvCVTI678v1CQxhuq-7U26iagmLshANKLEUoIM4S2miLltS2jnFBGYHLNIMag9_yMBqUpwC2dEW8jg62mu4ppdi2W4nvRNYbud0peoQ&usqp=CAE"
+    
+    },
+    {
+        "id":9,
+        "produto":"camisa nike dry fit preta e azul Masculina",
+        "descricao":"",
+        "preco":219.0,
+        "imagem":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSrUDSKYQCAzWIfjrxXhKYpGTKEdFPhoB89-3VJC2VJz3QCE0bsCtK3Rj6j31IJ3Vgf3O44EFxyUyVNvy1S2IfpcWyrLvgUQY-FljT2ymjTdg6jVevOFQd-&usqp=CAE"
+    
+    },
+    {
+        "id":10,
+        "produto":"short nike dry fit masculino",
+        "descricao":"",
+        "preco":85.0,
+        "imagem":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT4BpkPUX-lggfKNys7tlgwOAkSYEdWHEiOOzX3NDlB7i3C0nSSiCYx4uE4Bs5nJ8Ig-Ax4a-qon31CAhdhOaaW7_pRMLQF6OJM8AMieKy3&usqp=CAE"
+    
+    },
+    {
+        "id":11,
+        "produto":"camisa puma palmeiras |",
+        "descricao":"",
+        "preco":300.0,
+        "imagem":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbBlO37YZHFD-SNImjTDiTYwP9mL7ryDLpMlU94dMzKBak_ZdvcdxM1l2_5h03QQ5jmEiXMfxexr7rnKF1uizUUovuzbKhmAJqgcbkr63majf2ktri4n9e3w&usqp=CAE"
+    
+    },
+    {
+        "id":12,
+        "produto":"Chuteira nike beco 2 Masculina",
+        "descricao":"",
+        "preco":200.0,
+        "imagem":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJnVka4UfcoV1yFUJixHxNudCZR2J7gxaMLu2JTiRTso0pbgG40TEY6q9slFIHxoo8HJbJZKyNxD7NjdhheJ0G2lmp3M5p3-nK_j8p7Z1nGuYJCb5PKFj-&usqp=CAE"
     
     }
-]
+] 
